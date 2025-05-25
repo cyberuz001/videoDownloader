@@ -1,0 +1,6 @@
+aiogram
+aiohttp
+python-dotenv
+asyncio
+requests
+ddinsta
